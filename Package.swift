@@ -13,7 +13,7 @@ let package = Package(
         .binaryTarget(
             name: "FloossEmbeddedFinance",
             url: "https://github.com/pie-int/flooss-embedded-finance-ios/releases/download/0.9.0/FloossEmbeddedFinance-0.9.0.xcframework.zip",
-            checksum: "681765675856adf398b61acd6b144e68f176f248a3d7ceebdcb23697695625f0"
+            checksum: "8194bb85db2c82e32abd5838ea2f53fd0fde92300b2657243ab26e347faff28c"
         )
     ]
 )
